@@ -1,49 +1,141 @@
-<div align="center">
-
 # Dennis Johnson
 
-### Software Engineer
+::: {align="center"}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+production-scale+mobile+applications;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Swift;Architecture+%E2%80%A2+Performance+%E2%80%A2+CI%2FCD" />`{=html}
 
-Building high-performance mobile applications with Flutter, native Android & iOS, and scalable architecture.
+### Building reliable mobile products that scale to millions of users.
 
-<p>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dennisjohnson.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DennisJohnsonDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennisjohnson.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-johnson-software-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennisJohnsonDev)
+
+![](https://komarev.com/ghpvc/?username=DennisJohnsonDev&style=flat-square&color=58A6FF)
+:::
+
+------------------------------------------------------------------------
+
+``` text
+dennis@github:~$ whoami
+
+Software Engineer with 3+ years of experience building
+consumer mobile applications using Flutter.
+
+Currently building Event Discovery and Organizer at AllEvents,
+serving 20M+ users across 40,000+ cities worldwide.
+
+Focused on architecture, performance, native development,
+CI/CD and shipping software that lasts.
+```
+
+## 🚀 Current Focus
+
+-   Production Flutter applications
+-   Mobile architecture
+-   Kotlin & Swift native development
+-   Performance optimization
+-   Platform Channels
+-   CI/CD & release engineering
+-   Analytics-driven product engineering
+
+## 🛠 Tech Stack
+
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,c,firebase,hive,sqlite,git,github,gitlab,vscode,androidstudio,xcode,figma"/>`{=html}
+```{=html}
 </p>
+```
+  -----------------------------------------------------------------------
+  Area                  Technologies
+  --------------------- -------------------------------------------------
+  Architecture          Clean Architecture · MVVM · Feature-first
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3500&pause=1500&color=6C8CFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Flutter+%7C+Kotlin+%7C+Swift;Building+products+used+by+20M%2B+people;Clean+Architecture+%E2%80%A2+Performance+%E2%80%A2+Native+Development" />
+  State Management      Riverpod · Bloc · Provider · GetX
 
-</div>
+  Networking            Dio · REST APIs · JSON
 
----
+  Storage               Hive · SQLite
 
-## About
+  Analytics             Firebase · Crashlytics · CleverTap · AppsFlyer ·
+                        Microsoft Clarity
 
-I'm a software engineer focused on building production-grade mobile applications that scale.
+  CI/CD                 Codemagic · GitLab CI · App Store Connect · Play
+                        Console
+  -----------------------------------------------------------------------
 
-Currently, I work at **AllEvents**, where I build and maintain Flutter applications serving **20M+ users across 40,000+ cities worldwide**. My work spans architecture, native platform development, performance optimization, analytics, release engineering, and shipping features that reach millions of people.
+## 💼 Experience
 
-I enjoy solving engineering problems that continue to matter after launch—whether that's improving startup time, simplifying architecture, building reusable tooling, or making apps feel effortless to use.
+### Software Engineer --- AllEvents
 
----
+Building the Event Discovery and Organizer apps used by **20M+ users**
+across **40,000+ cities**.
 
-## Current Focus
+Highlights:
 
-- Building scalable Flutter applications
-- Mobile architecture & feature-first design
-- Native Android (Kotlin) & iOS (Swift)
-- Performance optimization
-- Offline-first applications
-- Platform Channels & custom plugins
-- CI/CD & release engineering
-- Product engineering driven by analytics
+-   Flutter architecture ownership
+-   Custom native plugins using Kotlin & Swift
+-   Offline-first architecture
+-   Google Maps & Deep Linking
+-   iOS Live Activities
+-   Performance optimization
+-   CI/CD pipelines
+-   Production App Store & Play Store releases
+
+## ⭐ Featured Projects
+
+### Wulflex
+
+A complete Flutter e-commerce ecosystem featuring customer and admin
+applications, Firebase backend, Razorpay integration, notifications and
+analytics.
+
+### Scribe
+
+A lightweight offline-first productivity app powered by Flutter and
+Hive.
+
+## 💡 Engineering Philosophy
+
+``` dart
+class DennisJohnson {
+  final role = "Software Engineer";
+
+  final expertise = [
+    "Flutter",
+    "Architecture",
+    "Performance",
+    "Native Development",
+    "CI/CD"
+  ];
+
+  bool get alwaysLearning => true;
+}
+```
+
+## 📈 GitHub Stats
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=DennisJohnsonDev&show_icons=true&hide_border=true&theme=transparent"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisJohnsonDev&layout=compact&hide_border=true&theme=transparent"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=DennisJohnsonDev&theme=transparent&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+**Building software that people enjoy using.**
+:::
 
 ---
 
