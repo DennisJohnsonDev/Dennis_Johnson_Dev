@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/dennis-johnson-software-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:dennisjohnson.dev@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dennisjohnson.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/DennisJohnsonDev">
