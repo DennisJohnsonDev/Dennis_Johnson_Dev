@@ -1,54 +1,213 @@
+<div align="center">
+
 # Dennis Johnson
 
-::: {align="center"}
-`<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+production-scale+mobile+applications;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Swift;Architecture+%E2%80%A2+Performance+%E2%80%A2+CI%2FCD" />`{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+production-scale+mobile+applications;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Swift;Architecture+%E2%80%A2+Performance+%E2%80%A2+CI%2FCD" />
 
-### Building reliable mobile products that scale to millions of users.
+<p>
+Building reliable mobile products that scale to millions of users.
+</p>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennisjohnson.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-johnson-software-engineer)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennisJohnsonDev)
+<p>
+<a href="mailto:dennisjohnson.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=DennisJohnsonDev&style=flat-square&color=58A6FF)
-:::
+<a href="https://www.linkedin.com/in/dennis-johnson-software-engineer">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-------------------------------------------------------------------------
+<a href="https://github.com/DennisJohnsonDev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-``` text
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=DennisJohnsonDev&style=flat-square&color=58A6FF" />
+
+</div>
+
+---
+
+```text
 dennis@github:~$ whoami
 
 Software Engineer with 3+ years of experience building
 consumer mobile applications using Flutter.
 
 Currently building Event Discovery and Organizer at AllEvents,
-serving 20M+ users across 40,000+ cities worldwide.
+a platform serving 20M+ users across 40,000+ cities worldwide.
 
-Focused on architecture, performance, native development,
-CI/CD and shipping software that lasts.
+I enjoy designing scalable architectures, solving performance
+problems, building native integrations, and shipping software
+that remains reliable long after release.
 ```
 
-## 🚀 Current Focus
+---
 
--   Production Flutter applications
--   Mobile architecture
--   Kotlin & Swift native development
--   Performance optimization
--   Platform Channels
--   CI/CD & release engineering
--   Analytics-driven product engineering
+# Current Focus
 
-## 🛠 Tech Stack
+- 📱 Building production Flutter applications
+- 🏗 Designing scalable mobile architectures
+- ⚡ Performance optimization & smooth UX
+- 🍎 Native iOS development (Swift)
+- 🤖 Native Android development (Kotlin)
+- 🔌 Platform Channels & custom plugins
+- 🚀 CI/CD, App Store & Play Store releases
+- 📊 Product engineering driven by analytics
 
-```{=html}
+---
+
+# Tech Stack
+
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,c,firebase,hive,sqlite,git,github,gitlab,vscode,androidstudio,xcode,figma"/>`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,c,firebase,git,github,gitlab,vscode,androidstudio,xcode,figma" />
+
 </p>
+
+| | |
+|---|---|
+| **Architecture** | Clean Architecture • MVVM • Feature-first |
+| **State Management** | Riverpod • Bloc • Provider • GetX |
+| **Networking** | Dio • REST APIs • JSON |
+| **Storage** | Hive • SQLite |
+| **Analytics** | Firebase • Crashlytics • AppsFlyer • CleverTap • Microsoft Clarity |
+| **CI/CD** | Codemagic • GitLab CI • App Store Connect • Play Console |
+
+---
+
+# Experience
+
+## Software Engineer — AllEvents
+
+📍 Ahmedabad, India
+
+Building the **Event Discovery** and **Organizer** mobile applications used globally.
+
+### Highlights
+
+- Architecting large Flutter codebases
+- Building custom Flutter plugins using Kotlin & Swift
+- Shipping production features to millions of users
+- Offline-first architecture with Hive
+- Google Maps & location services
+- Deep Linking
+- Live Activities
+- Performance optimization
+- Release engineering
+- CI/CD automation
+- Analytics-driven product development
+
+---
+
+# Featured Projects
+
+## 🚀 AllEvents
+
+One of the world's largest event discovery platforms.
+
+**Impact**
+
+- 🌍 20M+ users
+- 🗺 40,000+ cities
+- 📱 Android & iOS
+- ⚡ Native integrations
+- 🚀 Continuous delivery
+
+---
+
+## 🏋️ Wulflex
+
+A complete Flutter e-commerce ecosystem featuring customer and admin applications.
+
+**Built with**
+
+Flutter • Firebase • Bloc • Razorpay • FCM
+
+Features
+
+- Authentication
+- Payments
+- Admin Dashboard
+- Push Notifications
+- Analytics
+- Clean Architecture
+
+---
+
+## 📝 Scribe
+
+A lightweight productivity application focused on speed and offline reliability.
+
+Features
+
+- Tasks
+- Notes
+- Reminders
+- Calendar
+- Hive
+- Offline-first
+
+---
+
+# Engineering Philosophy
+
+```dart
+class DennisJohnson {
+  const DennisJohnson();
+
+  final role = "Software Engineer";
+
+  final expertise = [
+    "Flutter",
+    "Architecture",
+    "Performance",
+    "Native Development",
+    "CI/CD",
+  ];
+
+  String currentlyBuilding =
+      "Mobile products used by 20M+ people";
+
+  bool get stillLearning => true;
+
+  String get goal =>
+      "Build software that people never have to think about.";
+}
 ```
-  -----------------------------------------------------------------------
-  Area                  Technologies
-  --------------------- -------------------------------------------------
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DennisJohnsonDev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisJohnsonDev&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DennisJohnsonDev&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# Beyond Engineering
+
+Outside software, I enjoy learning how great products are built, exploring thoughtful UI design, travelling, photography, and constantly refining the craft of building software.
+
+---
+
+<div align="center">
+
+*"The best software feels effortless."*
+
+</div>  --------------------- -------------------------------------------------
   Architecture          Clean Architecture · MVVM · Feature-first
 
   State Management      Riverpod · Bloc · Provider · GetX
